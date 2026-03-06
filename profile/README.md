@@ -31,7 +31,7 @@ Before writing a single line of code, we define how the person using the product
 If you're looking to build something that matters, let's talk.
 
 **Email:** tomas.rodriguez.moyano@gmail.com
-**LinkedIn:** [Tomás Rodríguez Moyano](https://linkedin.com/in/tomasrodriguezmoyano)  
+**LinkedIn:** [Tomás Rodríguez Moyano](https://linkedin.com/in/tomas-rodriguez-moyano)  
 **Location:** Buenos Aires, Argentina 🇦🇷
 
 ---
